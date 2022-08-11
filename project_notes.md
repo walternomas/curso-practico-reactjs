@@ -45,3 +45,13 @@ npm install babel-loader html-loader html-webpack-plugin
 npm i mini-css-extract-plugin css-loader style-loader sass sass-loader -D
 ```
 
+## Quiz: Configurando el entorno de desarrollo para React
+
+### Ya tienes tu loader de Babel instalado y conectado con Webpack. ¿Dónde defines los presets con los que vas a trabajar?
+.babelrc
+
+### ¿Cuál es el archivo de configuración donde definimos los loaders con los que trabajaremos cada distinto tipo de archivo en nuestro proyecto?
+webpack.config.js
+
+### ¿Cuál es el loader de Webpack necesario para trabajar con código JavaScript interpretado por Babel?
+babel-loader
