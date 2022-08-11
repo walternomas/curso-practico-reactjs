@@ -55,3 +55,9 @@ webpack.config.js
 
 ### ¿Cuál es el loader de Webpack necesario para trabajar con código JavaScript interpretado por Babel?
 babel-loader
+
+### ¿Cuál es el comando correcto para trabajar con la versión 17 de React y React DOM.
+npm install react@17 react-dom@17 --save
+
+### ¿Cuál es el comando correcto para instalar la última versión de React y React DOM.
+npm install react react-dom --save
