@@ -1,0 +1,24 @@
+{
+  "name": "curso-practico-reactjs",
+  "version": "1.0.0",
+  "description": "Curso Práctico de React.js en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walternomas/curso-practico-reactjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walternomas/curso-practico-reactjs/issues"
+  },
+  "homepage": "https://github.com/walternomas/curso-practico-reactjs#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
