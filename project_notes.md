@@ -16,3 +16,10 @@ npm init -y
 npm i react@17 react-dom@17
 ```
 
+### Carpetas y primeros archivos
+- src
+  - index.js
+  - components
+    - App.jsx
+- public
+  - index.html
