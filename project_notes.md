@@ -39,3 +39,9 @@ npm install webpack webpack-cli webpack-dev-server
 ```
 npm install babel-loader html-loader html-webpack-plugin
 ```
+
+### SASS
+```
+npm i mini-css-extract-plugin css-loader style-loader sass sass-loader -D
+```
+
