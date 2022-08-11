@@ -4,7 +4,8 @@
   "description": "Curso Práctico de React.js en Platzi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack serve --open",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
