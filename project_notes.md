@@ -23,3 +23,19 @@ npm i react@17 react-dom@17
     - App.jsx
 - public
   - index.html
+
+### Otras instalaciones
+
+#### Babel
+```
+npm install @babel/core @babel/preset-env @babel/preset-react
+```
+#### Webpack
+```
+npm install webpack webpack-cli webpack-dev-server 
+```
+
+#### HTML Plugin
+```
+npm install babel-loader html-loader html-webpack-plugin
+```
