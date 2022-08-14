@@ -30,6 +30,7 @@ npm i react@17 react-dom@17
 ```
 npm install @babel/core @babel/preset-env @babel/preset-react
 ```
+
 #### Webpack
 ```
 npm install webpack webpack-cli webpack-dev-server 

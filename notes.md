@@ -28,7 +28,7 @@ Son otra manera de escribir los componentes con estado, si usar clases. No se pr
 
 Los hooks salieron en la versión 16.8 de React en Febrero de 2019. Son funciones especiales que existen en React que nos permiten manejar el ciclo de vida dentro de los componentes funcionales, esto hace que no sean necesarias las clases. Las clases pueden llegar a confundirnos, porque realmente no son clases como tal, son prototipos, y éstas además suponen un peor rendimiento a ti aplicación. Todos los hooks por convención empiezan con use. React te ofrece una serie de hooks de forma nativa, pero puedes usar hooks de librerías externas o incluso crear tus propios hooks.
 
-## QUIZ
+## QUIZ: Introducción a React
 
 ### ¿Qué es el estado en React.js?
 El lugar donde almacenamos y actualizamos dinámicamente información de los usuarios y la aplicación.
