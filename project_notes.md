@@ -62,3 +62,27 @@ npm install react@17 react-dom@17 --save
 
 ### ¿Cuál es el comando correcto para instalar la última versión de React y React DOM.
 npm install react react-dom --save
+
+
+## Quiz: Maquetación en React
+
+### ¿Qué cambios necesita el siguiente elemento HTML para funcionar correctamente con React.js y JSX?
+```javascript
+<img src="url">
+```
+Falta el cierre de la etiqueta:
+```javascript
+<img src="url" />
+```
+
+### ¿Qué cambios necesita el siguiente elemento HTML para funcionar correctamente con React.js y JSX?
+Párrafo
+
+### ¿Qué cambios necesita el siguiente elemento HTML para funcionar correctamente con React.js y JSX?
+```javascript
+<input type="text">
+```
+Falta el cierre de la etiqueta:
+```javascript
+<input type="text" />
+```
